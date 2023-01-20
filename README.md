@@ -17,5 +17,7 @@ Built With
 HTML
 CSS
 JavaScript
+***http://127.0.0.1:5500/index.html***
+
 ![Passwordgen](https://user-images.githubusercontent.com/109132522/213619286-4c550be9-1413-4bb5-b6d4-2fb6717379ef.PNG)
-http://127.0.0.1:5500/index.html
+***http://127.0.0.1:5500/index.html***
